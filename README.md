@@ -12,4 +12,4 @@ We could adopt existing algorithms by incorporating constraints, such as a condi
 Code was created for one specific system - Henon-Heiles system and we compared the original results with results using additional properties.
 
 ## Code
-HenonHeiles.cpp contains the implementation of the algorithm and conducted experiments. File HigherOrderEnclosure.cpp contains the implementation of higher order enclosure. 
+HenonHeiles.cpp contains the implementation of the algorithm and conducted experiments. File HigherOrderEnclosure.cpp contains the implementation of higher order enclosure. Files Var.h and Node.h are are required for the algorithm to work.
